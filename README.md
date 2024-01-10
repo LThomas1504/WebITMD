@@ -1,2 +1,2 @@
 # WebITMD
-For Spring 2024 ITMD 361
+For Lamarr's Spring 2024 ITMD 361
